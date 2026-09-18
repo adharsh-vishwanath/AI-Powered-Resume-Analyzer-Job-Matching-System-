@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Analyzer & Job Matching System",
+  "description": "AI-powered resume analyzer with semantic embedding matching, ATS scoring, skill gap detection, and responsible AI fairness checks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
